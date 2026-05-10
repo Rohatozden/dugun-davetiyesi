@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Rohat Melike Wedding//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dugun-rohat-melike-20260704@example.local
+DTSTAMP:20260510T000000Z
+DTSTART;TZID=Europe/Istanbul:20260704T190000
+DTEND;TZID=Europe/Istanbul:20260704T235900
+SUMMARY:Rohat & Melike Düğün
+LOCATION:Diyadin YİBO, Ketenpınar Mahallesi Atatürk Cd. 04900 Diyadin/Ağrı
+DESCRIPTION:Rohat Özden ve Melike Polat'ın düğün töreni.
+END:VEVENT
+END:VCALENDAR

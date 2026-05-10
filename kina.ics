@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Rohat Melike Wedding//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:kina-rohat-melike-20260703@example.local
+DTSTAMP:20260510T000000Z
+DTSTART;TZID=Europe/Istanbul:20260703T190000
+DTEND;TZID=Europe/Istanbul:20260703T230000
+SUMMARY:Rohat & Melike Kına Gecesi
+LOCATION:Osmanlı Düğün Salonu, Cumhuriyet Mahallesi 29 Ekim Caddesi, Cumhuriyet Lisesi karşısı, 04100 Ağrı Merkez/Ağrı
+DESCRIPTION:Rohat Özden ve Melike Polat'ın kına gecesi.
+END:VEVENT
+END:VCALENDAR
